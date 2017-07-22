@@ -1,0 +1,31 @@
+*{
+	font-family: 'Courgette', cursive;
+ 	-webkit-box-sizing: border-box;
+ 	-moz-box-sizing: border-box;
+ 	-ms-box-sizing: border-box;
+ 	box-sizing: border-box;
+}
+html { 
+  background: url(my3.jpg) no-repeat center center fixed; 
+  max-height: auto;
+  max-width: 100%;
+  text-align: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#author{
+	font-size: 3em;
+	margin-right: 10%;
+	color: #4CFF00;
+	font-weight: bold;
+	display:inline-block;
+	padding: 5px;
+}
+.head1{
+	text-align: left;
+}
+.head2{
+	text-align: right;
+}

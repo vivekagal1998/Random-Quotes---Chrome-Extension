@@ -19,4 +19,7 @@
   > 7. Tick Enabled if it isn't ticked.<br>
   > 8. Open a New tab and enjoy the extension.<br>
   
+  ## Contributing
+  You can contibute to this repository by forking it and then using Pull Request.All efforts are appreciated.
+  
   <hr>

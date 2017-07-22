@@ -3,7 +3,9 @@
   - This extension changes the default new tab of chrome to a tab having random inspiring quotes which changes after regular 4s interval. You can also change the quotes by reloading the page or opening a new tab.
   
 
-    
+  
+    ![shoot](https://user-images.githubusercontent.com/22425848/28490672-757025b8-6efd-11e7-9242-6a87cc8b7a79.png)
+
   ## Features 
   - Keeps you inspiring through motivational quotes.
   - Lets you read a different quote at an interval of 4s
